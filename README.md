@@ -1,6 +1,6 @@
 # Python Craps Game
 
-This project demonstrates core programming concepts including variables, conditionals, custom functions, `while` loops, lists (arrays), strings, and random number generation.
+This project demonstrates core programming concepts including variables, conditionals, custom functions, while loops, lists, strings and random number generation.
 
 ## Game Rules
 
