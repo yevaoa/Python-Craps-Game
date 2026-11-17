@@ -1,2 +1,14 @@
-# Python-Craps-Game
-A console-based Python implementation of the classic casino game Craps, built to showcase fundamental programming concepts including random number generation, modular functions, control flow, loops, and lists.
+# Python Craps Game
+
+This project demonstrates core programming concepts including variables, conditionals, custom functions, `while` loops, lists (arrays), strings, and random number generation.
+
+## Game Rules
+
+1. **First Roll:**
+   - **7 or 11:** The player wins immediately.
+   - **2, 3, or 12:** The casino wins (player loses immediately).
+   - **4, 5, 6, 8, 9, or 10:** This number becomes the player's **goal** (point) number.
+
+2. **Subsequent Rolls:**
+   - The player continues rolling two dice until they either roll their **goal number** again (win) or roll a **7** (lose).
+   - Any other number rolled during this phase has no effect and the game continues.
